@@ -1,0 +1,155 @@
+li{
+	display: inline-block;
+	padding: 35px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+nav{
+	margin-left: 100px;
+	margin-top: 20px;
+}
+h2{
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 100px;
+}
+.smallboxes{
+	background: #F1F1F1;
+	padding: 40px;
+	display: flex;
+}
+*{
+	background: #F1F1F1;
+}
+.zgva{
+	margin-left: 100px;
+	background: #FFF;
+	width: 367px;
+	border-radius: 0px 0px 5px 5px;
+	display: inline-block;
+	margin-left: 40px;
+}
+.minute, .saati{
+	display: inline-block;
+	margin-top: 11px;
+	padding: 3px;
+	background: #FFF;
+	vertical-align: middle;
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+.qali{
+	vertical-align: middle;
+}
+p{
+	background: #FFF;
+	padding: 5px;
+	margin-left: 10px;
+}
+.you{
+	margin-top: 68px;
+}
+.index{
+	position: relative;
+}
+h4{
+	position: absolute;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 50px;
+	margin-left: 40px;
+	background: none; 
+	color: #FFF;
+}
+.maldivebi{
+	background: #FFF;
+	width: 367px;
+	border-radius: 0px 0px 5px 5px;
+	display: inline-block;
+	margin-left: 40px;
+}
+.aisbergi{
+	background: #FFF;
+	width: 367px;
+	border-radius: 0px 0px 5px 5px;
+	display: inline-block;
+	margin-left: 40px;
+}
+.didi{
+	margin-left: 100px;
+	width: 758px;
+	height: 430px;
+	display: inline-block;
+}
+.small {
+	width: 262px;
+	height: 112px;
+	display: inline-block;
+	top: 0px;
+	margin-left: 40px;
+	padding: 100px;
+}
+.uli{
+	background: #243043;	
+}
+div a{
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.stay{
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	background: none;
+	display: inline-block;
+}
+.photos{
+	margin-top: 115px;
+}
+.tye{
+	width: 232px;
+	height: 212px;
+	margin-top: 100px;
+}
+.ulebi li{ 
+	background: #243043;
+}
+.ulebi a{ 
+	background-color: #243043;
+}
+.ulebi{
+	display: inline-block;
+	margin-top: 36px;
+}
+.sura{
+	display: inline-block;
+	background-color: #243043;
+	width: 510px;
+	height: 255px;
+	vertical-align: middle;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+footer{
+	width: 1280px;
+	height: 201px;
+	background-color: #243043;
+}
